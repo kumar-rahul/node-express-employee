@@ -1,0 +1,20 @@
+{
+  "name": "express-employee",
+  "version": "1.0.0",
+  "description": "node-express-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-express-backend",
+    "node",
+    "node-express",
+    "express"
+  ],
+  "author": "Kumar Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
